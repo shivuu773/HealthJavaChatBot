@@ -1,0 +1,14 @@
+target/
+*.class
+*.war
+*.jar
+!lib/*.jar
+.DS_Store
+Thumbs.db
+*.db
+*.sqlite
+*.log
+.vscode/
+*.iml
+.idea/
+healthcare.db
